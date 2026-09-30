@@ -14,7 +14,7 @@ CREATE TABLE netflix
 	rating	VARCHAR(15),
 	duration	VARCHAR(15),
 	listed_in	VARCHAR(250),
-	description VARCHAR(550)
+	description VARCHAR(550)    
 );
 
 SELECT * FROM netflix;
